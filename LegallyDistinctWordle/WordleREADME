@@ -1,7 +1,7 @@
-This program will select a word from a word bank and allow you to guess it.
+This Windows Forms program will select a word from a word bank and allow you to guess it.
 Correct Letters will be highlighted green, incorrect letters will be red, and letters that are in the incorrect spot will highlight yellow
 
 
 
 ... currently does not track if a letter has already been found ie. in words with 2 of the same letter, one will highlight green (assuming it is in the correct spot)
-and the other will highlight yellow even if the letter is only found once in the answer word leading to the incorrect impression that the word could have two of that letter.
+and the other will highlight yellow even if the letter is only found once in the answer word; leading to the incorrect impression that the word could have two of that letter.
