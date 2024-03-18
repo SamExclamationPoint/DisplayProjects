@@ -1,0 +1,16 @@
+C:\Github repos\CS3020Code\HubelSA2\bin\Debug\net6.0-windows\HubelSA2.exe
+C:\Github repos\CS3020Code\HubelSA2\bin\Debug\net6.0-windows\HubelSA2.deps.json
+C:\Github repos\CS3020Code\HubelSA2\bin\Debug\net6.0-windows\HubelSA2.runtimeconfig.json
+C:\Github repos\CS3020Code\HubelSA2\bin\Debug\net6.0-windows\HubelSA2.dll
+C:\Github repos\CS3020Code\HubelSA2\bin\Debug\net6.0-windows\HubelSA2.pdb
+C:\Github repos\CS3020Code\HubelSA2\obj\Debug\net6.0-windows\HubelSA2.csproj.GenerateResource.cache
+C:\Github repos\CS3020Code\HubelSA2\obj\Debug\net6.0-windows\HubelSA2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github repos\CS3020Code\HubelSA2\obj\Debug\net6.0-windows\HubelSA2.AssemblyInfoInputs.cache
+C:\Github repos\CS3020Code\HubelSA2\obj\Debug\net6.0-windows\HubelSA2.AssemblyInfo.cs
+C:\Github repos\CS3020Code\HubelSA2\obj\Debug\net6.0-windows\HubelSA2.csproj.CoreCompileInputs.cache
+C:\Github repos\CS3020Code\HubelSA2\obj\Debug\net6.0-windows\HubelSA2.dll
+C:\Github repos\CS3020Code\HubelSA2\obj\Debug\net6.0-windows\refint\HubelSA2.dll
+C:\Github repos\CS3020Code\HubelSA2\obj\Debug\net6.0-windows\HubelSA2.pdb
+C:\Github repos\CS3020Code\HubelSA2\obj\Debug\net6.0-windows\HubelSA2.genruntimeconfig.cache
+C:\Github repos\CS3020Code\HubelSA2\obj\Debug\net6.0-windows\ref\HubelSA2.dll
+C:\Github repos\CS3020Code\HubelSA2\obj\Debug\net6.0-windows\HubelSA2.LegallyDistictWordleBoard.resources
