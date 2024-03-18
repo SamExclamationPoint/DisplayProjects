@@ -1,0 +1,5 @@
+This program will randomly place a set of ships of varying length around a 2D array "board" without overlapping eachother
+The user can then shoot at ships to sink them if all of their spots have been hit. If a ship is sunk the console will display "You Sunk My {shipType}"
+like You Sunk My Battleship! or Destroyer! and so on
+
+for some reason some iterations will only partially build ships. making it impossible to actually win --- this is rare though
